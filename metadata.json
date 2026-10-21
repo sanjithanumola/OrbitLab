@@ -1,0 +1,6 @@
+{
+  "name": "OrbitLab — Interactive Solar System Explorer",
+  "description": "Interactive space exploration and astronomical simulation featuring the Sun, 8 planets, major moons, orbital mechanics simulator, Hohmann mission planner, comparison lab, and space quiz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
